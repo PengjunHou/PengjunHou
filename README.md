@@ -6,7 +6,7 @@
 - 🌱 My research focuses on **Internet of Things (IoT), Digital Twins (DT), World Models, and Federated Learning**  
 - 🤝 I’m open to collaboration on **Communication Systems and Machine Learning Engineering (MLE)** projects or research papers  
 - 🧠 Currently exploring **Digital Twins** and looking for insights from experts in the field  
-- 📫 How to reach me: **[ystian2018@gmail.com](mailto:ystian2018@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/pengjun-hou-02863b344/)**  
+- 📫 How to reach me: **[ystian2018@gmail.com](mailto:ystian2018@gmail.com)** | **[peh324@lehigh.edu](mailto:peh324@lehigh.edu)** | **[LinkedIn](https://www.linkedin.com/in/pengjun-hou-02863b344/)**  
 - 🍜 **Fun fact**: I love exploring delicious food!  
 
 ---
